@@ -1,0 +1,29 @@
+{
+  "name": "messagebird-verify-example",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "messagebird": "^2.1.4",
+    "nodemon": "^2.0.15"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messagebirdguides/verify-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/messagebirdguides/verify-guide/issues"
+  },
+  "homepage": "https://github.com/messagebirdguides/verify-guide#readme"
+}
